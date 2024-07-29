@@ -1,0 +1,9 @@
+This was my final project at TripleTen for the Business Intelligence Analyst program.
+
+I was tasked to act as a junior analyst at Zomato, which is a multinational restaurant aggregator and food delivery company. My job was to analyze the business performance of restaurants and customers registered in the service.
+
+Given the choice between customer analysis segmentation, restaurant analysis, and sales analysis, I moved forward with customer analysis segmentation. From there, I explored the data, cleaned, and transformed it as necessary through Microsoft Power BI's Power Query Editor. This primarily meant using find/replace to replace missing data/blanks, deleting unnecessary columns, and eliminating duplicate rows. I also joined multiple tables from the data given. Though my primary focus was on the Users table, I ended up joining the Users table to the Orders table using 1:Many, and similarly Restaurants to Orders, also 1:Many. 
+
+Once the data was joined and cleaned, I went ahead and analyzed the consumer data to figure out their current spending patterns, especially throughout the year, and what user segments were worth focusing on for certain advertising campaigns, deals, or offers that could be made. I created multiple dashboards with different kinds of graphs and tables to visually express my findings while also explaining through text what was being displayed and how this furthered my analysis. Finally, I made suggestions to increase customer loyalty, spending, and overall satisfaction.
+
+Thank you for taking the time to explore!
