@@ -1,10 +1,10 @@
 Storytelling with Data Superstore Returns
 
-Project on Tableau
+PROJECT ON TABLEAU PUBLIC
 
 https://public.tableau.com/shared/XM6XTF6S4?:display_count=n&:origin=viz_share_link
 
 
-Screen Recording Presentation of Superstore Returns Analysis
+SCREEN RECORDING of Presentation of Superstore Returns Analysis
 
 https://drive.google.com/file/d/1a3wN15Rwf5j9pymhEb8c8WTZOLC4gT-S/view?usp=sharing
