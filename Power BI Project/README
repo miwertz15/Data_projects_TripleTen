@@ -1,6 +1,6 @@
 I was "hired" to review the landscape of apps on the Shopify platform, using data scraped from publicly available Shopify websites. My goal was to figure out what key factors play into the success of a Shopify app.
 
-For each numbered part in this project, there is a page made in Power BI. Each question itself should is a visualization. Each subquestion is a screenshot of the entire screen to show work.
+For each numbered part in this project, there is a page made in Power BI. Each question itself is a visualization. Each subquestion is a screenshot of the entire screen to show work.
 
 PART 1: APP LANDSCAPE
 First, I found key statistics on the types of apps that are out there. The page is called App Landscape.
@@ -17,5 +17,5 @@ PART 3: APP REVIEWS
 Made a new sheet named App Reviews.
 
   1. In the data model, I created a new Many:1 relationship between the Reviews table and the Apps table (see P3Q1- relationship creation). Using this new table, I made a bar chart with the developer on the X-Axis, and the sum of rating on the Y-Axis.
-  2. Since the chart in the previous question is misleading because an app could have a high sum of rating if it has many one-star reviews. I thus made a new bar chart with developer on the X-Axis against the helpful_review average on the Y-Axis.
+  2. Since the chart in the previous question is misleading because an app could have a high sum of ratings if it has many one-star reviews. I thus made a new bar chart with developer on the X-Axis against the helpful_review average on the Y-Axis.
   3. Answered the following questions: Which developers are the most responsive? I thus made a bar chart with the developer from the apps table and the developer_answered column created in question 2.2. Added a Filter for this visual only which selects only the rows where reviews_count is greater than 500.
